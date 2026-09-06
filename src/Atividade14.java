@@ -8,7 +8,7 @@ public class Atividade14 {
         double reais, dolar;
 
         System.out.print("Qual o valor em reais? ");
-        reais = entrada.nextInt();
+        reais = entrada.nextDouble();
 
         dolar = reais * 5.4;
 
